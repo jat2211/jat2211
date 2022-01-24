@@ -15,3 +15,6 @@ If you're here from my website, then happy to have you! Otherwise, you should go
 - [data-for-good](https://github.com/jat2211/data-for-good) (Columbia DSI and Rights CoLab, October 2021 - Present)
 - [Photoionization-Modeling](https://github.com/jat2211/Photoionization-Modeling) (University of Texas at Austin, June 2021 - August 2021)
 - [CMB-Foreground-Cleaning](https://github.com/jat2211/CMB-Foreground-Cleaning) (Columbia University, August 2020 - February 2021)
+
+### Private Repos
+- Check back in a few weeks for some projects in C that are in the works:)
