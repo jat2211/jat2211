@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay! 👋
 
-- 🎨 I’m currently working on my "on the side" machine learning art projects. Check out some prelimary work [here](https://github.com/jat2211/Warhol-and-Convolutional-Neural-Network)!
+- 🎨 I’m currently working on my "on the side" digital art projects. Check out some prelimary work [here](https://github.com/jat2211/Warhol-and-Convolutional-Neural-Network)! Also, my [pixel art](https://github.com/jat2211/pixelart):)
 - 🔭 I recently completed an astronomy research internship modeling galaxies. All of my work can be found right [here](https://github.com/jat2211/Photoionization-Modeling).
 - 💸 Right now, I'm [fighting](https://github.com/jat2211/data-for-good) capitalism (sort of😥) using NLP to find human rights violations by companies in 10-Ks and also work as a data engineer at a startup!
 - 📝 I’m currently learning C and JavaScript.
