@@ -17,4 +17,4 @@ If you're here from my website, then happy to have you! Otherwise, you should go
 - [CMB-Foreground-Cleaning](https://github.com/jat2211/CMB-Foreground-Cleaning) (Columbia University, August 2020 - February 2021)
 
 ### Private Repos
-- Check back in a few weeks for some projects in C that are in the works:)
+- For employer: email me to requests access to my projects in either C or Tableau.
