@@ -2,7 +2,7 @@
 
 - 🎨 I’m currently working on some digital art projects. Check out some prelimary work [here](https://github.com/jat2211/Warhol-and-Convolutional-Neural-Network) for neural network art! Also, my [pixel art](https://github.com/jat2211/pixelart):)
 - 🔭 I recently completed an astronomy research internship modeling galaxies. All of my work can be found right [here](https://github.com/jat2211/Photoionization-Modeling).
-- 💸 Right now, I'm [fighting](https://github.com/jat2211/data-for-good) for the PEOPLE using NLP to find human rights violations by companies in 10-Ks and also work as a data engineer at a startup!
+- 💸 Right now, I'm fighting for the people using [NLP](https://github.com/jat2211/data-for-good) to find human rights violations by companies in 10-Ks and also work as a data engineer at a startup!
 - 📝 I’m currently learning C and JavaScript.
 - 👯 I’m looking to collaborate on any data science projects so shoot me an email at jay.trevino@columbia.edu!
 - 📽️ Spark up a conversation with me about movies! I love everything from horror to rom-coms to horror rom-coms.
