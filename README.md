@@ -9,9 +9,7 @@
 - 📫 How to reach me: Send a pigeon or find my email somewhere on this page.
 - 😄 Pronouns: He/Him
 
-If you're here from my website, then happy to have you! Otherwise, you should go check it out using this [link](https://jat2211.github.io/home/). It's not a virus, I promise. 
-
-In the future, I'll be hosting a new website on Notion (it's already in the works) as I love the customizability and hope to showcase personal content and projects. Stay tuned for the launch in late February!
+If you're here from my website, then happy to have you! Otherwise, you should go check it out using this [link](https://jat2211.github.io/home/). It's not a virus, I promise. It IS a bit outdated, but hoping to streamline more of my work soon either on there or here very soon!
 
 ### Research Repos 🥖
 - [data-for-good](https://github.com/jat2211/data-for-good) (Columbia DSI and Rights CoLab, October 2021 - Present)
