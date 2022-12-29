@@ -19,6 +19,7 @@
 - CrowdConnect
 
 ## Personal Projects 👽
+- [predicting-cancer-outcomes](https://github.com/jat2211/predicting-cancer-outcomes)
 
 ## Classwork Repos -- Private 🍕
 - ML
