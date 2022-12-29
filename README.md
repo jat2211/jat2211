@@ -22,6 +22,7 @@
 - [predicting-cancer-outcomes](https://github.com/jat2211/predicting-cancer-outcomes)
 
 ## Classwork Repos -- Private 🍕
+- [Networks and Crowds](https://github.com/jat2211/networks-and-crowds)
 - ML
 - Applied ML
 - Intro to Databases
