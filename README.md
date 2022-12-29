@@ -4,7 +4,7 @@
 - 💸 Right now, I'm fighting for the people using [NLP](https://github.com/jat2211/data-for-good) to find human rights violations by companies in financial data!
 - 📝 I just finished working as a ☁️CloudOps Data Analyst☁️ at Workday, Inc.
 - 👯 I’m looking to collaborate on any data science projects so shoot me an email at jay.trevino@columbia.edu!
-- 📽️ Spark up a conversation with me about movies! I love everything from horror to rom-coms to horror rom-coms.
+- 📽️ If it's a horror movie, I've probably seen it.
 - 📫 How to reach me: Send a pigeon or find my email somewhere on this page.
 - 😄 Pronouns: He/Him
 
