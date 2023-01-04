@@ -1,7 +1,9 @@
 # 🚧🚧🚧 UNDER CONSTRUCTION:) 🚧🚧🚧
 ### Hi there, I'm Jay! 👋
 ## What do I value?
-I believe that life is an ongoing process of exploration, learning, and personal growth. By using data science and programming as tools, I seek to deepen my understanding of the world and myself, and to expand my horizons through new experiences and insights. I strive to cultivate a curious, open-minded, and analytical approach to life, and to use the knowledge and skills I gain to make positive contributions to the world around me. By constantly seeking new challenges and opportunities, and by approaching them with a spirit of creativity, collaboration, and determination, I can lead a rich and fulfilling life that is both intellectually and emotionally rewarding."
+Life is an ongoing process of exploration, learning, and personal growth. By using data science and programming as tools, I deepen my understanding of the world and myself, and expand my horizons through new experiences and insights. I strive to cultivate a curious, open-minded, and analytical approach to life, and to use the knowledge and skills I gain to make positive contributions to the world around me. 
+
+By constantly seeking new challenges and opportunities, and by approaching them with a spirit of creativity, collaboration, and determination, I can lead a rich and fulfilling life that is both intellectually and emotionally rewarding.
 
 ## What is my journey?
 - 🔭 I recently completed an astronomy research internship modeling galaxies. All of my work can be found right [here](https://github.com/jat2211/Photoionization-Modeling).
