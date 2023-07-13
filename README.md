@@ -13,11 +13,11 @@ You see, I come from humble beginnings, where financial struggles were the norm.
 I am, above all, a lifelong learner. A seeker of knowledge, experience, and growth. Every venture I undertake is an opportunity to stretch my wings and soar to new heights. With an insatiable thirst for discovery and a flair for embracing the unknown, I embark on this journey, weaving together the threads of my multidimensional existence. Casual, yet resolute. A narrative that could grace the pages of a captivating book or find its place in the bold strokes of an op-ed, capturing hearts and minds alike.
 
 ## What is my journey?
-- Aug 2020 - Feb 2021: For six months I gazed at the cosmos through the lens of mathematical derivations and supercomputers doing cosmology research on Cosmic Microwave Background Radiation (CMB).
-- Jun 2021 - Aug 2021: For a summer, I researched galaxies, ate tacos, and dove headfirst into everything data science had to offer. I also operated one of the largest telescopes in the world.
-- Sep 2021 - May 2022: I worked at a mock startup, having the opportunity to explore NLP in practical settings and the creative freedom to make machine learning models how I saw fit.
-- Oct 2021 - Mar 2023: My largest project(s) to date, I used NLP in human rights research in every aspect of the data pipeline, from collecting and translating Korean financial documents, manipulating data in every which way possible, waiting days for my work to process (and then a few more when it didn't), giving presentations, and writing a 10-page report.
-- May 2022 - Aug 2022: I went to sunny California as a data analyst intern, played ping pong, hiked a lot, and made over 50 graphs that could (and should) save that company A LOT of money.
+- **Aug 2020 - Feb 2021:** For six months I gazed at the cosmos through the lens of mathematical derivations and supercomputers doing cosmology research on Cosmic Microwave Background Radiation (CMB).
+- **Jun 2021 - Aug 2021:** For a summer, I researched galaxies, ate tacos, and dove headfirst into everything data science had to offer. I also operated one of the largest telescopes in the world.
+- **Sep 2021 - May 2022:** I worked at a mock startup, having the opportunity to explore NLP in practical settings and the creative freedom to make machine learning models how I saw fit.
+- **Oct 2021 - Mar 2023:** My largest project(s) to date, I used NLP in human rights research in every aspect of the data pipeline, from collecting and translating Korean financial documents, manipulating data in every which way possible, waiting days for my work to process (and then a few more when it didn't), giving presentations, and writing a 10-page report.
+- **May 2022 - Aug 2022:** I went to sunny California as a data analyst intern, played ping pong, hiked a lot, and made over 50 graphs that could (and should) save that company A LOT of money.
 
 - 📫 How to reach me: Send a pigeon to New York to join its comrades (and find me somewhere in Manhattan) or find my email somewhere on this page.
 - 😄 Pronouns: He/Him
