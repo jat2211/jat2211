@@ -19,9 +19,7 @@ I am, above all, a lifelong learner. A seeker of knowledge, experience, and grow
 - **Oct 2021 - Mar 2023:** My largest project(s) to date, I used NLP in human rights research in every aspect of the data pipeline, from collecting and translating Korean financial documents, manipulating data in every which way possible, waiting days for my work to process (and then a few more when it didn't), giving presentations, and writing a 10-page report.
 - **May 2022 - Aug 2022:** I went to sunny California as a data analyst intern, played ping pong, hiked a lot, and made over 50 graphs that could (and should) save that company A LOT of money.
 
-- 📫 How to reach me: Send a pigeon to New York to join its comrades (and find me somewhere in Manhattan) or find my email somewhere on this page.
-- 😄 Pronouns: He/Him
-
+- 📫 **How to reach me:** Send a pigeon to New York to join its comrades (and find me somewhere in Manhattan) or find my email somewhere on this page.
 ## Research Repos 🥖
 - [data-for-good](https://github.com/jat2211/data-for-good) (Columbia DSI and Rights CoLab, October 2021 - Present)
 - [Photoionization-Modeling](https://github.com/jat2211/Photoionization-Modeling) (University of Texas at Austin, June 2021 - August 2021)
