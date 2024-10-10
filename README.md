@@ -1,5 +1,5 @@
-# Hi there, I'm Jay Trevino!
-## What do I value?
+# Hi there, I'm Jay!
+## Me
 I’ve always approached the digital world with curiosity and an open mind, constantly exploring different fields rather than sticking to one. My research spans across various domains—from studying the cosmos to working on human rights projects—because I enjoy diving into new challenges and learning something different every time. You could call me a generalist, but I’m more focused on adapting to what’s next than staying in one lane.
 
 The pace of change today is fast, and I’ve learned that adaptability is key. By keeping my skill set broad, I’m able to shift between different areas with ease, whether that’s in my professional work or personal projects. It's like blending into new environments without missing a beat.
@@ -12,12 +12,25 @@ Coming from a low-income background as a first-generation college graduate, I’
 
 At the core, I’m a lifelong learner, always looking for new experiences and ways to grow. Each opportunity, whether big or small, is a chance for me to evolve and discover something new. My journey is about staying curious, embracing challenges, and moving forward with a sense of purpose.
 
-## What is my journey?
-- **Aug 2020 - Feb 2021:** For six months I gazed at the cosmos through the lens of mathematical derivations and supercomputers doing cosmology research on Cosmic Microwave Background Radiation (CMB).
-- **Jun 2021 - Aug 2021:** For a summer, I researched galaxies, ate tacos, and dove headfirst into everything data science had to offer. I also operated one of the largest telescopes in the world.
-- **Sep 2021 - May 2022:** I worked at a mock startup, having the opportunity to explore NLP in practical settings and the creative freedom to make machine learning models how I saw fit.
-- **Oct 2021 - Mar 2023:** My largest project(s) to date, I used NLP in human rights research in every aspect of the data pipeline, from collecting and translating Korean financial documents, manipulating data in every which way possible, waiting days for my work to process (and then a few more when it didn't), giving presentations, and writing a 10-page report.
-- **May 2022 - Aug 2022:** I went to sunny California as a data analyst intern, played ping pong, hiked a lot, and made over 50 graphs that could (and should) save that company A LOT of money.
+## My Past
+**Aug 2020 - Feb 2021:** For six months, I gazed at the cosmos through the lens of mathematical derivations and supercomputers while doing cosmology research on Cosmic Microwave Background Radiation (CMB).
+
+**Jun 2021 - Aug 2021:** For a summer, I researched galaxies, ate tacos, and dove headfirst into data science. I also operated one of the largest telescopes in the world—no big deal.
+
+**Sep 2021 - May 2022:** I worked at a mock startup, exploring NLP in practical settings with the creative freedom to build machine learning models however I saw fit. It was like a playground for algorithms.
+
+**Oct 2021 - Mar 2023:** My largest project to date: using NLP in human rights research. I worked on every part of the data pipeline, from collecting and translating Korean financial documents to waiting days for processes to finish (or not). I also gave presentations and wrote a 10-page report—very official.
+
+**May 2022 - Aug 2022:** I spent a summer in sunny California as a data analyst intern, played ping pong, hiked a lot, and created over 50 graphs that should save the company a lot of money.
+
+**Oct 2023 - Jul 2024:** I worked at a hedge fund with around $100 million under management, applying machine learning to develop reinforcement learning trading strategies (robots playing with money). I made sure that money moved fast—and without any hiccups.
+
+## My Present
+As of October 2024, I am currently looking for a new job (sadly:( my last company shut down) and building a website for my photography.
+
+## My Future
+If I knew what my future held, I'd sure be a hell of a lot happier.
+
 ---
 - 📫 **How to reach me:** Send a pigeon to New York to join its comrades (and find me somewhere in Manhattan) or find my email somewhere on this page.
 ## Research Repos
