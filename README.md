@@ -4,7 +4,7 @@ I’ve always approached the digital world with curiosity and an open mind, cons
 
 The pace of change today is fast, and I’ve learned that adaptability is key. By keeping my skill set broad, I’m able to shift between different areas with ease, whether that’s in my professional work or personal projects. It's like blending into new environments without missing a beat.
 
-Beyond work, I have a wide range of interests that reflect different parts of who I am. I’m passionate about photography and videography, capturing moments through a lens. Music production is another creative outlet for me, where my background in piano and electric bass shapes the sounds I create.
+Beyond work, I have a wide range of interests that reflect different parts of who I am. I’m passionate about photography and videography, capturing moments through a lens. Music production is another creative outlet for me, where my background in the bass (not the upright one) shapes the sounds I create.
 
 I’ve been playing basketball for over 15 years, and physical challenges have always been part of my life. Yoga keeps me grounded, and I completed a marathon this past January, which pushes me to test my limits both mentally and physically.
 
